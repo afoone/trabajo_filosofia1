@@ -9,3 +9,5 @@ El ser es y el no ser no es. Esto es, el ser existe y la nada no existe. Esto pa
 - El ser es inmóvil, y no cambia. Moverse implica ser aquí y no ser allí, y por tanto, no ser en algún momento. Por lo tanto, el ser es inmóvil, y no cambia.
 
 El mundo consiste en un único ser, increado, inmovil, inmutable, y que es el ser. No hay pluralidad por lo tanto en la realidad, las cosas plurales son sólo impresiones de nuestros sentidos. 
+
+¿Es compatible el concepto de ser con la pluralidad de las cosas? No, porque si hay pluralidad, hay dos seres, y por tanto, no sería ser.

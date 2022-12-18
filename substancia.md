@@ -108,6 +108,20 @@ Otra conclusión lógica del principio de Parménides sería que el ser es etern
 
 Establecido esto, podríamos decir que Parménides, establece que el ser es único, eterno e inmóvil y que todas las cosas particulares provienen de este ser, y que el movimiento, la pluralidad, la temporalidad, la generación y la destrucción no son sino, en palabras de Parménides, *nombres instituidos por los hombres en su credulidad*. 
 
+## Zenón de Elea (490 - 430 a.C.)
+
+Zenón fué discípulo de Parménides y miembro de la escuela de Elea. Su principal aportación fue el desarrollo del método de reducción al absurdo para demostrar las tesis de Parménides, estableciendo sus célebres *paradojas*, para el *movimiento* y la *multiplicidad*. En este artículo veremos las paradojas sobre el movimiento, que nos serán útiles para el resto del artículo y comprender mejor la filosofía de Parménides.
+
+Aquiles y la tortuga:
+
+Se nos presenta una situación, Aquiles el más veloz de los griegos hará una carrera a una tortuga, a la que le da un estadio de ventaja. Pero Aquiles va siembre recuperando la distancia perdida y la tortuga siempre ha avanzado un poco. Esto lo utiliza Zenón para demostrar que el movimiento es imposible, ya que se puede dividir en infinitos tramos y si vemos a Aquiles adelantando a la tortuga es sólo una ilusión. Esta paradoja es equivocada, pero es cierto que hasta **Leibniz** no hubo una demostración de que la suma de infinitos números puede dar un resultado finito.
+
+La flecha:
+
+En la paradoja de la flecha, Zenón establece que para que se produzca el movimiento, un objeto debe cambiar la posición que ocupa. Da un ejemplo de una flecha en vuelo. Afirma que, en cualquier instante de tiempo (sin duración), la flecha no se mueve de donde está ni a donde no está. ​No puede moverse a donde no está, porque no transcurre el tiempo para que se mueva allí; ni tampoco puede moverse de donde está, porque ya está allí. En otras palabras, en cada instante de tiempo no se produce movimiento. Si todo está inmóvil en cada instante, y el tiempo está completamente compuesto de instantes, entonces el movimiento es imposible.
+
+En cuanto a Zenón, su filosofía es la de Parménides, y su *arjé* el mismo, por lo que no estableceremos ninguna diferencia entre ambos en este artículo.
+
 ## Anaximandro de Mileto (610 - 546 a.C.)
 
 Anaximandro es un filósofo de la escuela de Mileto, del que no nos han llegado escritos y conocemos su obra por fuentes secundarias. Su obra más conocida es de un título traducido *Sobre la naturaleza*. En ella, Anaximandro expone su teoría de la sustancia, que es la siguiente:
@@ -178,7 +192,7 @@ En la cosmología de Heráclito, todo aparece y desaparece continuamente en este
 
 Heráclito, uno de los autores más malinterpretados, se ha clasificado en monista por lo que para mí es una interpretación errónea. En el monismo existe un único elemento para explicar todo el cosmos, sin embargo si este elemento es el devenir (que no el fuego, como hemos explicado anteriormente), este devenir sólo puede ser explicado con el movimiento entre contratios. Son necesarios los contrarios, como en el zoroastrismo, para generar este movimiento. Esto podríamos considerarlo como un dualismo, pero no un dualismo de dos sustancias, sino de dos aspectos de una misma sustancia, que es el devenir, con este movimiento pendular entre las dos sustancias.
 
-# Pitágoras de Samos (570-495 a.C.)
+## Pitágoras de Samos (570-495 a.C.)
 
 Pitágoras de Samos fue un filósofo, matemático y músico griego, fundador de la escuela pitagórica. Es uno de los filósofos más influyentes de la historia. Su filosofía se basa en la armonía, la música y la matemática, y en la idea de que el mundo es un todo armónico y matemático. Hizo importantes aportaciones a la matemática, la física, la astronomía, la música y la filosofía. No existen escritos suyos, pero sí de sus discípulos, de la llamada escuela pitagórica.
 
@@ -194,7 +208,7 @@ Su concepción del arjé y gran parte de su filosofía tendrá mucha influencia 
 
 Los pluralistas en el sentido de la filosofía presocrática son aquellos que consideran que el *arjé* es un conjunto de elementos, y no uno solo. Pero el hecho del pluralismo no acaba ahí, sino que la pregunta sobre qué es el *arjé* es una pregunta un poco diferente. La pregunta monista era más bien de dónde venía todo el universo, esto es, desde un punto de vista cronológico, ¿cual fué la primera sustancia? El concepto o la cuestión que los pluralistas intentaban tratar era de qué está hecha la realidad ahora, independientemente de su origen. Esto es, en su pregunta no incluyen el origen del universe sino cuales son las sustancias, los ladrillos de la realidad, en el presente.
 
-# Empédocles de Agrigento (495-435 a.C.)
+## Empédocles de Agrigento (495-435 a.C.)
 
 Las fechas de nacimiento y muerte de Empédocles son inciertas, pero se cree que nació en Agrigento, Sicilia, y que murió en algún lugar del Peloponeso. Fue un filósofo griego, médico y orador, que por sus ideales democráticos o tal vez por sus extravagancias se granjeó numerosos enemigos hasta que no pudo retornar a su ciudad de nacimiento.
 
@@ -217,7 +231,7 @@ Esto nos lleva a la siguiente necesidad elemental de Heráclito, que es cómo se
 
 Empédocles es un pluralista, desde el punto de vista fundamental de la filosofía presocrática, y es un pluralista en el sentido de que considera que el *arjé* es un conjunto de elementos, y no uno solo. Además podemos conferir, esta vez sí, un sustrato material de cada una de las sustancias que componen el *arjé*.
 
-# Anaxágoras de Clazómenas (500-428 a.C.)
+## Anaxágoras de Clazómenas (500-428 a.C.)
 
 Anaxágoras de Clazómenas fue un filósofo griego, nacido en Clazómenas, en la isla de Samos, y que murió en Atenas, donde se trasladó tras el fracaso de la revolución jónica contra los persas, donde ejerció de profesor de grandes figuras de la atenas posterior, al parecer incluso de Pericles. De nuevo tenemos una obra llamada "Sobre la naturaleza" o *Peri physeõs*. 
 
@@ -229,7 +243,7 @@ Lo que observamos en el universo y en la naturaleza es resultado de la acción d
 
 Desde un punto de vista cosmológico, el *nous* hace rotar estas semillas en el *caos* originario, y de esta forma se genera el *cosmos*, por la separación de contrarios (caliente-frío, húmedo-seco, etc.) y la mezcla de los elementos.
 
-# Demócrito de Abdera (460-370 a.C.)
+## Demócrito de Abdera (460-370 a.C.)
 
 Demócrito nació, al parecer, en Abdera una ciudad tracia (Al norte de grecia, o lo actualment conocido como la zona europea de Turquía), aunque también se le ha ubicado en la Jonia, en Mileto. Es conocido su estudio con los *magi* (magos, realmente sacertodos) de la religión persa zoroástrica.
 
@@ -241,5 +255,13 @@ Todos los átomos reunen buena parte del ser de Parménides, son llenos, eternos
 
 El pluralismo de demócrito está basado en que existen diferentes tipos de átomos, que se diferencian por su forma, tamaño, peso, etc. Desde este punto de vista sería un pluralista, pero también un materialista, ya que considera que todo está formado por átomos, y que estos átomos son los elementos de la realidad. Pero ambas son discutibles, ya que no hay clara diferencia entre el *átomo* y el *agua* de Tales, por ejemplo, que no entra en establecer si la *forma del agua* es estable o no. Por otra parte, el hasta cierto punto evidente materialismo de Demócrito tampoco es una negación de los dioses. Para demócrito,  nuestro conocimiento de los dioses proviene de *eidôla* o películas gigantes de átomos con las características que atribuimos a los dioses. dioses, aunque Demócrito niega que sean inmortales. Algunos académicos toman esto como un ataque deflacionario a la teología tradicional basada en meras imágenes (Barnes 1982, pp. 456–61), pero otros suponen que la teoría postula que estos *eidôla* son realmente seres vivos (Taylor 1999a, pp. 211– 6). Aunque el atomismo a menudo se identifica como una doctrina atea en épocas posteriores, no está claro si este es realmente el punto de vista de Demócrito.
 
+
+# Conclusión
+
+Tradicionalmente se le ha dado mucha relevancia a la clasificación de los filósofos presocráticos en cuanto al monismo o al pluralismo, pero en realidad no es tan sencillo. En la mayoría de los casos, los filósofos presocráticos no se posicionan de forma clara en cuanto a la existencia de un único ser o de muchos seres, sino que se mueven entre ambos extremos, y en ocasiones incluso se contradicen. El considerar el atomismo como pluralista y el agua como monista, por ejemplo, es una clasificación que no se corresponde con la realidad, ya que el agua de Tales es un ser único, pero no nos llega la consideración de si su forma cambia en algún momento, lo que nos llevaría a un *arjé* similar a Demócrito. 
+
+Más complicada si cabe es la consideración de los filósofos presocráticos sobre si su *arjé* es material o no lo es, consideración que no se puede realizar sin establecer el contexto histórico de los filósofos presocráticos, que están influidios por el mítico *arjé* de Hesíodo del caos primordial, que es un ser no material, del que nacen los dioses y los titanes, que posteriormente darán forma al universo. Hesíodo, a su vez, parece estar influido por la cosmogonía sumeria, en la que se representa este *caos* como el agua del mar. De esta forma, podríamos considerar este caos, de forma metafórica, como el agua de Tales o, de forma más directa como el apeiron de Anaximandro.
+
+Sin embargo, hay dos elementos fundamentales en la filosofía presocrática que a mi entender son fundamentales. Uno es la existencia del *no-ser*, que para la filosofía eleática de Parménides y su escuela es imposible que sea, y otro es el cambio propuesto por Heráclito. Estos dos elementos son fundamentales en la comprensión de la filosofía presocrática, y tienen implicaciones fundamentales en la concepción del *arjé*, ya que las implicaciones son fundamentales desde un punto de vista ontológico, pero también epistemológico, como ya comenzaría a vislumbrarse en las formas de conocimiento expresadas por parménides. Es cierto, de cualquier modo, que estas consideraciones no se pueden extraer de los filósofos anteriores a Parménides y Heráclito, como los milesios, pero podríamos intentar inferirlos, aunque la dificultad es que no se nos ha transmitido ningún texto de estos filósofos, y que los textos de los filósofos que nos han llegado son de una época posterior, y que por tanto no nos permiten conocer la filosofía de los milesios en su totalidad.
 
 

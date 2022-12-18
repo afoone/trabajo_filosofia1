@@ -16,6 +16,8 @@ Ferrater Mora, Jose. Diccionario de Filosofía de Bolsillo. (2022) Ed. Alianza E
 
 Fraile, Guillermo. Historia de la Filosofía I. Grecia y Roma. Ed. Biblioteca de Autores Cristianos. (2022)
 
+García-Escrivá, Vicente. "Los nombres divinos de los cuatro elementos." (2016). https://rua.ua.es/dspace/handle/10045/65396 
+
 Guiu, Ignacio. La lectura de Parménides en la física de Aristóteles. ÁGORA Papeles de Filosofía(2007), Vol. 26, nº 1: 27-53
 
 Guthrie, W. K. C. (1962). "The Milesians: Anaximenes". A History of Greek Philosophy. Vol. 1. Cambridge: Cambridge University Press. pp. 115–139. ISBN 0-521-29420-7.

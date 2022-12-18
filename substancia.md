@@ -11,7 +11,7 @@ Los jonios, por lo tanto, trasladaron a la Jonia en el siglo XII - X a.C., proba
 
 La filosofía en la Jonia aparece a comienzos del siglo VI a.c, con Tales de Mileto, durante el llamado período arcaico de la Historia de Grecia. Existían importantes rutas comerciales con el levante (Fenicia) y con oriente (Egipto y Babilonia). Las rutas orientales pasaban casi necesariamente por la Jonia, y los jonios se beneficiaron de ello. La Jonia se convirtió en un punto de encuentro de diferentes culturas, y de diferentes corrientes filosóficas. Su contacto con fenicia era asimismo muy estrecho (el propio Tales parece ser de origen fenicio). 
 
-Esta ubicación hacía que las ideas provinientes de Oriente y de Occidente se mezclaran en la Jonia, y que la filosofía presocrática se desarrollara en un contexto de gran riqueza cultural, con grandes aportaciones a la matemática y otras ciencias. También hacía posible los viajes, se dice que Tales de Mileto viajó a Egipto (Herodoto I, 170) y otros [INDICAR]
+Esta ubicación hacía que las ideas provinientes de Oriente y de Occidente se mezclaran en la Jonia, y que la filosofía presocrática se desarrollara en un contexto de gran riqueza cultural, con grandes aportaciones a la matemática y otras ciencias. También hacía posible los viajes, se dice que Tales de Mileto viajó a Egipto (Herodoto I, 170) y es aceptado que Demócrito visitó, además de Egipto, Etiopía, Persia, Babilonia e incluso la India (Laercio IX, 2).
 
 Si consideramos el espacio temporal de los presocráticos desde el nacimiento de Tales (624 a.c.) hasta la muerte de Demócrito (370 a.c.) hubieron grandes acontecimientos históricos que sin duda afectan a su filosofía y de forma particular a la expansión de su filosofía. Los persas conquistaron la Jonia sobre el 546 a.c, de manos de Ciro el Grande, que hizo que muchos Jonios se refugiasen en la Magna Grecia, en la actual Italia, en las costas del mar Jónico, llamado así por los jonios que se asentaron allí.
 
@@ -80,13 +80,15 @@ Los filósofos presocráticos se verían a partir de entonces, siempre en base a
 
 # Monistas
 
-Los monistas, como su nombre indica, creen que la sustancia es única, y que todas las cosas particulares provienen de esta sustancia. Sin embargo, aquí están clasificados dos tipos de monismo que, a mi parecer, implican dos concepciones cosmológicas muy diferentes. 
+Los monistas, como su nombre indica, creen que la sustancia es única, y que todas las cosas particulares provienen de esta sustancia.  Sin embargo, aquí están clasificados dos tipos de monismo que, a mi parecer, implican dos concepciones cosmológicas muy diferentes. 
 
 Uno sería el monismo cuantitativo, que es el que expone que la sustancia es única, y que todas las cosas particulares provienen de esta sustancia. Con única quiero decir que sólo existe, en sí, una instancia de esta sustancia, y que no hay más sustancias. Su arjé no es una clase de sustancias, sino que es una sustancia *una*.
 
 En contraposición, podríamos establecer un monismo cualitativo, en el que la sustancia es un género de sustancias, independientemente del número de estas sustancias. En este caso, la sustancia no es una sustancia, sino que es un género de sustancias, y por lo tanto, no es una sustancia en sí, sino que es un conjunto de sustancias, eso sí, al ser sustancias de la misma clase, todas ellas son iguales entre sí.
 
 Entre los primeros, el monismo cuantitativo, comenzaremos por Parménides, que es el que más se acerca a este concepto. 
+
+Por último podríamos contemplar una clasificación en base a cómo es tal sustancia, de qué está compuesta. El materialismo tradicional, una variedad del monismo, considera que la sustancia primaria es material y física. El idealismo es una forma de monismo filosófico que sostiene que el principio básico del universo es espiritual.
 
 ## Parménides de Elea (525? - 450? a.C.)
 
@@ -122,7 +124,7 @@ Ahora bien, y en lo que nos atañe, Anaximandro, como Parménides, establece que
 
 En cuanto a la primera, parece claro que Anaximandro es monista. Hay que observar Simplicio considera que Anaximandro notó los cambios mutuos de los cuatro elementos principales, esto es, tierra, agua, aire y fuego, y sencillamente no pudo elegir uno de ellos, con lo que se quedó con uno superior, lo *apeirón*. Con lo cual diríamos que es estrictamente monista, porque no sólo existe una sustancia única, sino que su intención era claramente hacer una teoría monista, estableciendo una única sustancia. Eso sí, existiría la posibilidad que Anaximandro considerase que el apeirón está 'un poco por encima del *arjé*, siendo el *apeirón* el *arjé* de los *arjé*, siendo los cuatro elementos estos últimos.
 
-En cuanto a la segunda, parece que Anaximandro considera que lo apeirón es único, pero no tenemos una demostración lógica de ello. Pero el que no exista es posible que no tuviese los medios o no realizase la demostración lógica de Parménides, no significa que no hubiese estado de acuerdo con él.
+En cuanto a la segunda, parece que Anaximandro considera que *lo apeirón* es único, pero no tenemos una demostración lógica de ello. Pero el que no exista es posible que no tuviese los medios o no realizase la demostración lógica de Parménides, no significa que no hubiese estado de acuerdo con él.
 
 ## Tales de Mileto (624 - 546 a.C.)
 
@@ -158,18 +160,86 @@ Heráclito vivió y escribió en la ciudad de Éfeso, en la costa occidental de 
 
 > el libro adquirió tanta fama que produjo partidarios de su filosofía que se llamaban heraclíteos
 
-Para Heráclito el *arjé* es el fuego, en el que hay que ver la mejor expresión simbólica de los dos pilares de la filosofía de Heráclito. el devenir perpetuo y la lucha de opuestos, pues el fuego sólo se mantiene consumiendo y destruyendo, y constantemente cambia de materia, concepto probablemente influenciado por el Zoroastrismo. Este cambio lo expresa en su concepto *panta rhei* (πᾶν τὸ ῥεῖ), que significa "todo fluye", y que es una expresión de la idea de que todo es cambiante, y que el cambio es la única constante. Ello lo expresa en su famoso aforismo:
+Una de las construcciones filosóficas fundamentales de Herácloto es su concepto *panta rhei* (πᾶν τὸ ῥεῖ), que significa "todo fluye", y que es una expresión de la idea de que todo es cambiante, y que el cambio es la única constante. Ello lo expresa en su famoso aforismo:
 
 > ποταμοῖς τοῖς αὐτοῖς ἐμβαίνομεν τε καὶ οὐκ ἐμβαίνομεν, εἶμεν τε καὶ οὐκ εἶμεν τε. *En los mismos ríos entramos y no entramos, (pues) somos y no somos (los mismos)*, esto es, *nadie puede bañarse dos veces en el mismo río.*
 
-Que es una expresión de la idea de que todo es cambiante, y que el cambio es la única constante. El río, que no deja de ser el mismo río, ha cambiado por completo, al igual que el bañista, en el momento de entrar de nuevo.
+Que es una expresión de la idea de que todo es cambiante, y que el cambio es la única constante. El río, que no deja de ser el mismo río, ha cambiado por completo, al igual que el bañista, en el momento de entrar de nuevo. Otro elemento básico sería la unión de los opuestos, por lo que *todo es y no es al mismo tiempo*, en clara contraposición al pensamiento de Parménides. 
 
+Ahora bien, para saber cual es su *arjé* y si es Heráclito monista vamos a centrarnos en su origen de las cosas. Para Aristóteles, su *arjé* es el fuego, y al parecer para él, el fuego es el principio de todas las cosas, lo cual crearía el fuego como sustancia eterna y todas las cosas surgen o son mutaciones del fuego.  Pero hoy en día tenemos que considerar que hay que ver la mejor expresión simbólica de los dos pilares de la filosofía de Heráclito. el devenir perpetuo y la lucha de opuestos, pues el fuego sólo se mantiene consumiendo y destruyendo, y constantemente cambia de materia, concepto probablemente influenciado por el Zoroastrismo. El fuego parece ser más un símbolo o una métáfora del cambio, que una sustancia en sí misma.
 
+Por explicarlo de otra forma, en la filosofía de Heráclito tenemos el concepto de los contrarios, digamos que todo fluye entre contratios, por ejemplo todo lo caliente tiende a estar frío y al revés, y ahí se produce el cambio constante. La realidad de la naturaleza es un continuo devenir. Entonces el fuego se convierte en sólo una metáfora de ese cambio, y no en una sustancia en sí misma. Esto tiene asimismo unas implicaciones epistemiológicas claves, ¿podemos conocer lo que cambia incesantemente? Podemos conocer sólo lo estable, y la estabilidad es sólo apariencia.
 
+Entonces ¿cuál es el *arjé* para Heráclito? Heráclito escribe:
 
+> Este mundo, que es el mismo para todos, no ha sido creado por ninguno de los dioses ni de los hombres, sino que fue siempre, es y será fuego eternamente vivo que se enciende según un orden regular y se apaga según orden regular
 
+En la cosmología de Heráclito, todo aparece y desaparece continuamente en este fuego, pero hemos comentado que podría ser una metáfora de este cambio, y podríamos encontrar una respuesta en el dualismo del zoroastrismo, en el que existe la constante lucha entre el bien y el mal, entre la verdad y la mentira, y que se resuelve en el fuego, que es el principio de la creación y destrucción. Pero este devenir constante no es caótico, es armónico, el *logos* (λóγος) le da una proporción y un equilibrio. En su cosmología, este logos actua como ordenador de caos, representado por el fuego. Pero este fuego puede no ser más que una representación del devenir, y éste de los contrarios, ya que sin contrarios no hay devenir.
 
+Heráclito, uno de los autores más malinterpretados, se ha clasificado en monista por lo que para mí es una interpretación errónea. En el monismo existe un único elemento para explicar todo el cosmos, sin embargo si este elemento es el devenir (que no el fuego, como hemos explicado anteriormente), este devenir sólo puede ser explicado con el movimiento entre contratios. Son necesarios los contrarios, como en el zoroastrismo, para generar este movimiento. Esto podríamos considerarlo como un dualismo, pero no un dualismo de dos sustancias, sino de dos aspectos de una misma sustancia, que es el devenir, con este movimiento pendular entre las dos sustancias.
 
+# Pitágoras de Samos (570-495 a.C.)
+
+Pitágoras de Samos fue un filósofo, matemático y músico griego, fundador de la escuela pitagórica. Es uno de los filósofos más influyentes de la historia. Su filosofía se basa en la armonía, la música y la matemática, y en la idea de que el mundo es un todo armónico y matemático. Hizo importantes aportaciones a la matemática, la física, la astronomía, la música y la filosofía. No existen escritos suyos, pero sí de sus discípulos, de la llamada escuela pitagórica.
+
+Es heredero de la escuela Jónica, que buscaría resolver el origen del universo como un todo. Es considerado un monista en el cual todo es creado a través de los números. Consideran el número 1 como el origen del universo, pero no sólo el número 1 como aspecto conceptual u epistemiológico, sino como una sustancia en sí misma, de forma ontológica, con entidad propia. En palabras de Filolao de Crotona:
+
+> Todo lo cognoscible tiene un número, pues no es posible que sin número nada pueda ser concebido ni conocido
+
+Cuando los pitagóricos decían, como médula de su metafísica, que todos los objetos estaban compuestos de números, que *los números son la esencia del universo*, o que el número es el *arjé*, el principio elemental –como para otros filósofos presocráticos era el agua, el aire, la tierra, el fuego– lo entenderían en sentido literal, porque los números tenían para ellos significado ontológico (concepción) además de epistemiológico (conocimiento), esto es, con magnitud y extensión. Esto hace que desde el punto de vista que nos ocupa, podamos considerar 'monista' a Pitágoras, en el sentido de la filosofía presocrática, ya que todo es generado a través de los números, entidades ontologicas de las cuales todo depende.
+
+Su concepción del arjé y gran parte de su filosofía tendrá mucha influencia posteriormente en Platón, tanto en su filosofía del conocimiento como en su teoría de las ideas.
+
+# Pluralistas
+
+Los pluralistas en el sentido de la filosofía presocrática son aquellos que consideran que el *arjé* es un conjunto de elementos, y no uno solo. Pero el hecho del pluralismo no acaba ahí, sino que la pregunta sobre qué es el *arjé* es una pregunta un poco diferente. La pregunta monista era más bien de dónde venía todo el universo, esto es, desde un punto de vista cronológico, ¿cual fué la primera sustancia? El concepto o la cuestión que los pluralistas intentaban tratar era de qué está hecha la realidad ahora, independientemente de su origen. Esto es, en su pregunta no incluyen el origen del universe sino cuales son las sustancias, los ladrillos de la realidad, en el presente.
+
+# Empédocles de Agrigento (495-435 a.C.)
+
+Las fechas de nacimiento y muerte de Empédocles son inciertas, pero se cree que nació en Agrigento, Sicilia, y que murió en algún lugar del Peloponeso. Fue un filósofo griego, médico y orador, que por sus ideales democráticos o tal vez por sus extravagancias se granjeó numerosos enemigos hasta que no pudo retornar a su ciudad de nacimiento.
+
+Hay multitud de obras atribuidas a Empédocles, pero la mayoría son falsas. Podemos decir con cierta seguridad que escribió dos libros: Sobre la naturaleza de los seres y Las purificaciones, escritos en los hexámetros de la tradición poética griega. Era un gran estudioso y admirador de la filosofía de Parménides, pero mostrará su disconformidad en puntos fundamentales. Empédocles, frente a la estaticidad del ser de Parménides propodrá un constante movimiento heraclíteo. Y que la realidad última de este ser es una conjunción de elementos, que tomará de los escritos de otros presocráticos, citándolos claramente en su poema:
+
+> Ante todo, aprende las cuatro raíces de todas las cosas:
+Zeus el magnífico y Hera que da la vida; también Aidoneo,
+Y Nestis, que hace correr con sus lagrimas las fuentes de los mortales.
+
+Estos cuatro elementos, ocultos en la mítica constituyen la realidad última de la naturaleza. Estos elementos son:
+
+- Zeus, representado por el fuego, que es el elemento más puro y el más elevado, y que es el que da origen a todos los demás elementos.
+- Gea, representada por la tierra, que es el elemento más sólido y el más denso.
+- Aidoneo, representado por el aire, que es el elemento más ligero y el más puro.
+- Nestis, representada por el agua, que es el elemento más frío y el más húmedo.
+
+Curiosamente, Empédocles no nombra los cuatro elementos a través de las figuras sagradas habitualmente empleadas en la Antigua Grecia para referirse a ciertas manifestaciones naturales, lo que nos lleva a suponer que existe también una diferenciación entre los dioses olímpicos (Zeus y Gea) y otros seres ctónicos (Aidoneo / Hades y Nestis). 
+
+Esto nos lleva a la siguiente necesidad elemental de Heráclito, que es cómo se mezclan estos elementos para dar lugar a la realidad. Empédocles nos da una respuesta a esta pregunta, que es la de la mezcla de los elementos, que se produce a través del amor o *philatés* y la discordia o *neikos*. Esto es el motor del movimiento que al 'Ser' de Parménides le confiere Empédocles. Son fuerzas primordiales de atracción y repulsión que se producen entre los elementos, y que son las que dan lugar a la realidad, que en un estudio que no vamos a realizar aquí podemos considerar como una mezcla de los cuatro elementos con una relación con los mitos citados. 
+
+Empédocles es un pluralista, desde el punto de vista fundamental de la filosofía presocrática, y es un pluralista en el sentido de que considera que el *arjé* es un conjunto de elementos, y no uno solo. Además podemos conferir, esta vez sí, un sustrato material de cada una de las sustancias que componen el *arjé*.
+
+# Anaxágoras de Clazómenas (500-428 a.C.)
+
+Anaxágoras de Clazómenas fue un filósofo griego, nacido en Clazómenas, en la isla de Samos, y que murió en Atenas, donde se trasladó tras el fracaso de la revolución jónica contra los persas, donde ejerció de profesor de grandes figuras de la atenas posterior, al parecer incluso de Pericles. De nuevo tenemos una obra llamada "Sobre la naturaleza" o *Peri physeõs*. 
+
+Anaxágoras ha sido considerado un filósofo pluralista, porque postula que la esencia está formada de diferentes elementos. En principio acepctó las tesis, ya mencionadas, de Heráclito (el cambio existe) y Parménides (el no ser no es). Para anaxágoras, desde un punto de vista global universal nada nace ni perece, sino que hay mezcla y separación de los elementos que existen. El nacimiento, por lo tanto, se basa en la mezcla de las cosas y la muerte en si disgregración. Como Empédocles, Anaxágoras considera que la realidad está formada por diferentes elementos, pero a diferencia de Empédocles, Anaxágoras no los limita a cuatro. ¿Como puede ser que al comer verduras, por ejemplo, pasan a ser parte de nuestra carne? Porque, según Anaxágoras, *todo está en todo*.
+
+Esta visión pluralista de la realidad correspondería a que existen elementos de 'carne' y elementos de 'verdura', y que estos elementos se mezclan entre sí al comer las verduras. Estos elementos serán las *semillas*, de las que habrán tantas clases como cualidades existen, de echo estas son infinitas y eternas (como el ser de Parménides), diminutas y divisibles hasta el infinito (se opondrá a Zenon en este punto y Aristóteles las llamará *homeomerías* o partes semejantes).
+
+Lo que observamos en el universo y en la naturaleza es resultado de la acción del *nous* (νοῦς) que interviene en el *caos* (Χάος) originario generando las mezclas y creando el *cosmos* (κόσμος), esto es el orden. Este es un principio consciente e inteligente, pero no sabemos si es un ser inmaterial o está formado por los mismos elementos que el resto de la realidad, esto es de semillas, lo que nos hace difícil considerar o no un materialismo para el *arjé* de Anaxágoras. 
+
+Desde un punto de vista cosmológico, el *nous* hace rotar estas semillas en el *caos* originario, y de esta forma se genera el *cosmos*, por la separación de contrarios (caliente-frío, húmedo-seco, etc.) y la mezcla de los elementos.
+
+# Demócrito de Abdera (460-370 a.C.)
+
+Demócrito nació, al parecer, en Abdera una ciudad tracia (Al norte de grecia, o lo actualment conocido como la zona europea de Turquía), aunque también se le ha ubicado en la Jonia, en Mileto. Es conocido su estudio con los *magi* (magos, realmente sacertodos) de la religión persa zoroástrica.
+
+No se sabe con seguridad si todas las teorías que se le atribuyen eran originarias suyas, o un desarrollo de las ideas de **Leucipo** (470-370 a.C.), que fue su maestro. Recoje de Parménides sus conceptos de inmmutabilidad y eternidad del ser, y de Heráclito su concepto de cambio. Al creer el concepto de cambio, requiere en este caso un 'no-ser' para que el cambio pueda producirse, considerando que el ser (το ον), para moverse de un lugar a otro, necesita un espacio vació o 'no-ser' (το μηον). El ser será el concepto de 'lleno' y el no-ser el de 'vacío'. 
+
+El ser (lleno) es cuantitativamente múltiple, formado por otro elementos *llenos*. Pero no es divisible hasta el infinito, como se pronunciaba Anaxágoras, sino que existe un momento en el que no se puede dividir más, que llamará *átomo* (ἄτομο, lo que no se puede dividir). El *átomo* es completamente lleno, sin vacío en su interior, y es la verdadera unidad de todo, esto es, el *ser* o *arjé* propiamente dicho.
+
+Todos los átomos reunen buena parte del ser de Parménides, son llenos, eternos e inmutables, pero a diferencia de aquél, se mueven e interactúan chocando unos con otros. En la colisión se agregan formando los cuerpos o las cosas. Estos estaban diferenciados por la posición, por la figura y por el órden de los átomos. Todo lo que hay en la realidad está formado por átomos, y también puede explicar el origen del universo, que para Demócrito estará basado en el azar, así como también el alma, que da vida al cuerpo y es afectada por él. 
+
+El pluralismo de demócrito está basado en que existen diferentes tipos de átomos, que se diferencian por su forma, tamaño, peso, etc. Desde este punto de vista sería un pluralista, pero también un materialista, ya que considera que todo está formado por átomos, y que estos átomos son los elementos de la realidad. Pero ambas son discutibles, ya que no hay clara diferencia entre el *átomo* y el *agua* de Tales, por ejemplo, que no entra en establecer si la *forma del agua* es estable o no. Por otra parte, el hasta cierto punto evidente materialismo de Demócrito tampoco es una negación de los dioses. Para demócrito,  nuestro conocimiento de los dioses proviene de *eidôla* o películas gigantes de átomos con las características que atribuimos a los dioses. dioses, aunque Demócrito niega que sean inmortales. Algunos académicos toman esto como un ataque deflacionario a la teología tradicional basada en meras imágenes (Barnes 1982, pp. 456–61), pero otros suponen que la teoría postula que estos *eidôla* son realmente seres vivos (Taylor 1999a, pp. 211– 6). Aunque el atomismo a menudo se identifica como una doctrina atea en épocas posteriores, no está claro si este es realmente el punto de vista de Demócrito.
 
 
 

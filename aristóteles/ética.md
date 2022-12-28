@@ -76,6 +76,119 @@ Además, los seres humanos nos podemos comportar de tres maneras con respecto al
 - *racionalmente*, usando siempre la razón y la capacidad crítica, la mejor forma de ordenar nuestra vida es la racional. 
 
 
+La ética para Aristóteles no es una ciencia exacta. Siempre hay que tener en cuenta la circunstancia. ¿Dónde está la universalidad pretendida? 
+
+La medicina está compuesta por una serie de reglas generales, pero no hay dos casos iguales. Un cirujano estudia la anatomía, pero no puede saber cómo va a ser exactamente el cuerpo de cada paciente. La ética eudaimónica de Aristóteles serán unas reglas generales que han de ser adaptadas a cada caso.
+
+## Qué es el ser humano y su *actividad propia*
+
+La actividad propia de un pianista es tocar el piano y la de un buen pianista tocarlo bien. ¿Cuál es la actividad propia del ser humano? Aristóteles dice que es la actividad racional. La actividad racional es la que distingue al ser humano de los animales. La actividad racional es la que nos permite ser autónomos, es decir, tomar decisiones por nosotros mismos. La actividad racional es la que nos permite ser libres.
+
+En *de ánima*, *Pery psiché* habla de las funciones biológicas. *ánima* es en este caso la mente. hay tres almas: 
+
+- la vegetativa, todo tipo de actividades que tenemos en común con las plantas, alimentación crecimiento y reproducción.
+- la sensorio-motora, es la capacidad de experimentar sensorialemente el medio (entorno y movimiento) y de responder a él (motora). Es compartida con los animales.
+- la racional. Es una función propiamente humana, que comprende, abstrae, crea, etc. 
+
+Siguiendo con el pianista, la actividad que nos hará feliz es seguir la actividad propia del ser humano, que es la actividad racional, y llevarla hasta el máximo límite posible. Conocimiento, arte, música, hablar, etc. Por lo que para una buena vida hay que introducir ciencia, arte, etc. Y se debe seguir durante una vida completa pues en sus propias palabras, *una golondrína no hace verano*. 
+
+## La virtud
+
+El hacer algo de forma excelente, en griego se usaba el término ἀρετή (areté) que fue traducido al latín como *virtus*. Aristóteles dice que la virtud es la actividad racional llevada a su máximo grado.
+
+Su obra *Metafísica* o *filosofía primera* comienza con:
+
+> Por naturaleza todos los hombres desean conocer. Señal de ello es el amor a las sensaciones. Estas, en efecto, son amadas por sí mismas, incluso al margen de su utilidad y, más que todas las demás, las sensaciones visuales.
+
+No se ve obligado, es un impulso natural. Cuando lo alcanzamos nos genera satisfacción. Hablamos por supuesto del saber de cualquier tipo. Nuestro cerebro demanda estímulos y aspiramos a disponer de estímulos sensoriales y cognitivos. El aburrimiento es un mal, de no disponer de estímulos.
+Para Aristóteles, la visual es la preferida porque produce más información, con lo cual más satisfacción.
+
+### El sabio. 
+
+> En primer lugar, solemos opinar que el sabio sabe todas las cosas en la medida de lo posible, sin tener, desde luego, ciencia de cada una de ellas en particular. Además consideramos sabio aquel que es capar de tener conocimiento de las cosas difíciles [...] (y) el que es más exacto en el conocimiento de las causas y más capaz de enseñarlas. (...)
+
+Aquí diferencia el especialista del sabio. El sabio es el que se interesa por todas las ramas del saber, porque en cada rama hay información adecualda para tomar las mejores decisiones. *Sartre* posteriormente, dirá que los especialistas solo saben de una cosa, llamándoles *idiot savants*.  
+
+Las cosas que exigen más esfuerzo, son las que nos dan más satisfacción, también en el conocimiento, por ello lo de las cosas difíciles. El conocimiento de las causas es fundamental para Aristóteles, así como la capacidad de trasmitirlas.
+
+De todas las ciencias ha de elegirse por el amor a la sabiduría, el conocimiento por sí mismo (un fin en si mismo), evidentemente la filosofía. Por último el sabio ha de dar órdenes, no recibir órdenes.
+
+### La filosofía (φιλοσοφία)
+
+No es una ciencia productiva. Es evidente para Aristóteles. Comenzó con el sentirse maravillado por algo, con la física. 
+
+> Ahora bien, el que se siente perplejo y maravillado reconoce que no sabe.
+
+La maravilla consiste en ver lo infinito del conocimiento. Necesitamos un mínimos de conocimiento. No la buscamos por su utilidad, sino que al igual que un hombre libre es un fin en sí mismo, el conocimiento es un fin en sí mismo. Es extremadamente cumplir el conocimiento de todo, pero es indigno del ser humano el no intentarlo.
+
+## La formación del carácter
+
+Aristóteles comprende que el ser humano no es sólo puro entendimiento y tenemos cuerpo, que nos hace susceptibles a evitación, etc. Por lo que necesitamos una ética de hombres (con su cuerpo) y no sólo de dioses.
+
+Aristóteles dice que los Dioses son amorales. no podemos predicar cualidades morales a los dioses. Su visión no es antropofórmica. Ellos al ser eternos y no tener cuerpos no se pueden extrapolar formas morales a ellos, la visión antropomórfica no es compartida por Aristóteles. Una ética humana debe incluir las pultiones, deseos, etc. 
+
+> Los dioses no son justos ¿Como podrían serlos si no firman contratos ni hacen depósitos?
+
+*bienes exteriores* , es imposible hacer el bien cuando se está desprovisto de recursos. La belleza, amigos, riqueza y poder político son bienes exteriores que influyen en la felicidad, la prosperidad. Algunos por ello identifican la buena suerte con la felicidad. 
+
+¿Podemos ser virtuosos por naturaleza? Aristóteles dice que no, que la virtud es una actividad, y que se aprende y cultiva.
+
+Siendo la virtud de dos especies, una intelectual y otra moral, la primera se adquiere por la educación (conocimientos, experiencia y tiempo), la segunda por la práctica (habito).
+
+Lo único que es infinitamente cambiante es la mente, las virtudes no existen en nosotros por la acción de la naturaleza ni tampoco contra las leyes de la misma, sno que la naturaleza nos ha hecho susceptibles de ellas y el hábito nos proporcionará la virtud. Las cualidades sólo provienen de la repetición frecuente de algunos actos, con lo cual debemos contraer tales o cuales hábitos, haciendo que nuestros actos sean virtuosos.
+
+El placer y el dolor. Analizando qué sentimos al hacer un acto, placer o dolor, podemos determinar el sentido de nuestro carácter. Desde la infancia se nos debe educar para sentir placer o dolor en función de lo que es bueno o malo. En esto coincide con Platón.
+
+## El justo término medio
+
+Todo conocedor rehuye del exceso o del defecto. El término medio conserva la perfección. La virtud ética se da el exceso o defecto. 
+
+Vitudes que se deben cultivar ( a su término medio ):
+
+* coraje
+* templanza 
+* magnificiencia: punto medio entre la extrema vulgaridad y la extrema pomposidad, disfrutasmos de la simplicidad y la sofiisticación a partes iguales.
+* magnanimidad
+* liberalidad : administra adecuadamente los bienes. Ni pródigo ni avaro.
+* paciencia
+* verdad
+* astucia: no hay que ser tonto ni maquiavélico.
+* simpatía: no hay que ser tímido o frío ni grosero.
+* vergüenza: el pudor, ni ser demasiado tímido ni demasiado descarado.
+* justicia: 
+
+El sabio aristotélico se distingue por sonreir. La ética de Aristóteles es de un ser que tiene emociones. 
+
+## La más importante de las virtudes: La amistad
+
+> a todo lo que precede debe seguir una teoría de la amistad, porque ella es una especie de virtud o va siempre acompañada de ella. Es una de las necesidades más apremiantes de la vida. 
+
+> la amistad es el lazo de los estados y los legisladores se ocupan de ella más que de la justicia [...] desterrar la discordia  es lo mejor para la ciudad
+
+> el cariño que se dispensa a los amigos es el más noble de los sentimientos
+
+¿Puede existir la amistad entre todos los hombres sin excepción? ¿Hay varias formas de amistad? Las causas de la afección son tres por lo que hay tres clases de amistad:
+
+- Los que se aman quieren el bien recíproco por el mismo motivo por lo que se aman, amarse por interés, por placer... se busca interés o placer. Estas amistades son indirectas y accidentales. Se rompen facilmente, porque las personas cambian, y pierden su poder, se afean, etc.
+- La amistad perfecta es la de los hombres virtuosos y que se parecen por su virtud. Si hay diferencias en riqueza, poder o sabiduría no será duradera, pero si las hay, la virtud es sólida y es duradera. Amistades tan nobles son raras porque hay pocos hombres de este carácter.
+
+Los amigos se hacen con el tiempo, han de conocerse bien y ha de merecerse mutuamente. 
+
+> No es posible ser amado por muchos con una perfecta amistad, lo mismo que no lo es amar a muchos a la vez. La verdadera amistad [...] se dirije sólo a un sólo individuo. Cuando no hay nada más que el placer o el interés, la amistad puede ser con mucha gente. 
+
+# Educación
+
+> no puede negarse, por consiguiente, que la educación de los niños debe ser uno de los objetos principales que debe cuidar el legislador
+
+El estado debe legislar para mantener la armonía social, pero se hacen en base a las costumbres, que provendrán de la educación. Aristóteles considera que ha de haber una educación pública para todos conforme a criterios filosóficos de calidad. 
+
+> lo que es común, debe aprenderse en común, es un error que cada ciudadano 
+
+Los espartanos se educaban todos los niños en común, cosa que gustaba a Aristóteles.
+
+En cuanto a los objetos que se deben abrazar es lo más complejo. 
+
+
 
 
 
